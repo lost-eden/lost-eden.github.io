@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crying Freeman, le film live'
-tags: [LostEden1]
+tags: [ LostEden1 ]
 featured_image_thumbnail: assets/images/posts/1997/cryingfreeman.jpg
 ---
 

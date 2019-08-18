@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dossier Kimagure Orange Road'
-tags: [LostEden1, Dossier]
+tags: [ LostEden1, Dossier ]
 featured_image: assets/images/posts/1997/kimagure_orange_road.jpg
 featured: true
 hidden: true

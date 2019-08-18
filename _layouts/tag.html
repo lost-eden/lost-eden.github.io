@@ -12,6 +12,8 @@ class: 'tag-template'
             <p class="page-description">{{ paginator.total_posts }} {% if paginator.total_posts == 1 %}articles{% else %}articles{% endif %} sur ce sujet</p>
             
         </header>
-  
+        <div class="post-feed inner-wide">
+          {% for post in paginator.posts %}{% include postbox.html %}{% endfor %}
+        </div>
     </main><!-- .site-main -->
 </div><!-- .site-content -->
