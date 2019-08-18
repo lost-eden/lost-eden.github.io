@@ -16,6 +16,6 @@ Au sommaire:
 - [Kimagure Orange Road, le manga]({% post_url 1997-10-05-kimagure-orange-road-manga %})
 - [l'anime]({% post_url 1997-10-05-kimagure-orange-road-anime %})
 - [les OAV]({% post_url 1997-10-05-kimagure-orange-road-oav %})
-- les films
-- les goodies
+- [les films]({% post_url 1997-10-05-kimagure-orange-road-films %})
+- [les goodies]({% post_url 1997-10-05-kimagure-orange-road-goodies %})
 
