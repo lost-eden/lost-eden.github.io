@@ -3,10 +3,10 @@
   <channel>
     <title>Lost Eden</title>
     <description>Bienvenue sur le site dédié à l'imaginaire, Lost Eden. Ce site fait suite au fanzine Lost Eden créé en 1997. Il a pour vocation de traiter de l’actualité de l'imaginaire et du rêve à travers l’animation japonaise et la musique.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Aug 2019 16:17:05 +0200</pubDate>
-    <lastBuildDate>Sun, 18 Aug 2019 16:17:05 +0200</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 18 Aug 2019 17:37:23 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Aug 2019 17:37:23 +0200</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -24,8 +24,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 03 Oct 1997 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/dossier-kimagure-orange-road</link>
-        <guid isPermaLink="true">http://localhost:4000/dossier-kimagure-orange-road</guid>
+        <link>/dossier-kimagure-orange-road</link>
+        <guid isPermaLink="true">/dossier-kimagure-orange-road</guid>
         
         <category>LostEden1</category>
         
@@ -47,8 +47,8 @@
 &lt;p&gt;&lt;em&gt;Crying Freeman – 1996 – Film français de Christophe GANS avec Mark DACASCOS, Julie DOUGLAS, Yoko SHIMADA, Rae Dawn Chong et Tcheky KARIO. Musique de Patrick O’HEARN&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Oct 1997 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/crying-freeman</link>
-        <guid isPermaLink="true">http://localhost:4000/crying-freeman</guid>
+        <link>/crying-freeman</link>
+        <guid isPermaLink="true">/crying-freeman</guid>
         
         <category>LostEden1</category>
         
@@ -69,8 +69,8 @@ BONNE LECTURE !&lt;/p&gt;
 &lt;p&gt;LOST EDEN numéro 1 – Octobre 1997 – Version corrigée et réactualisée – Publication chaotique – Fanzine entièrement écrit par Erwan – Logiciel utilisé: Winword V6.0 – Les opinions exprimées par ce fanzine n’engagent que l’auteur (c’est-à-dire moi !) – Tous les dessins et photos utilisés pour la réalisation du fanzine sont Copyright par leurs auteurs – Les images en 1 et 4 de couverture sont tirées de la série Kimagure Orange Road et sont copyright Izumi MATSUMOTO / Shueisha / Fuji TV – Les photos de Chandeen ont été faites par Mickael J. SCHWALM – Fanzine oblige, ce numéro doit sûrement comporter des erreurs, soyez donc indulgents – Le dicton du jour: « Pas de bras, pas de chocolat.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Oct 1997 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/lost-eden-1</link>
-        <guid isPermaLink="true">http://localhost:4000/lost-eden-1</guid>
+        <link>/lost-eden-1</link>
+        <guid isPermaLink="true">/lost-eden-1</guid>
         
         <category>LostEden1</category>
         
