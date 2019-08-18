@@ -5,13 +5,15 @@
     <description>Bienvenue sur le site dédié à l'imaginaire, Lost Eden. Ce site fait suite au fanzine Lost Eden créé en 1997. Il a pour vocation de traiter de l’actualité de l'imaginaire et du rêve à travers l’animation japonaise et la musique.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Aug 2019 17:37:23 +0200</pubDate>
-    <lastBuildDate>Sun, 18 Aug 2019 17:37:23 +0200</lastBuildDate>
+    <pubDate>Sun, 18 Aug 2019 17:58:52 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Aug 2019 17:58:52 +0200</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
         <title>Dossier Kimagure Orange Road</title>
         <description>&lt;p&gt;Anime de toute beauté, Kimagure Orange Road (ou Max &amp;amp; Cie pour sa version française) est une des rares séries qui, malgré son âge (plus de 20 ans), continue de briller dans le coeur de nombreux fans. La principale raison de l’engouement pour cette série se trouve en la personne de Madoka Ayukawa, considérée comme l’un des plus beau personnage féminin de l’histoire de l’animation japonaise. Laissez-vous donc charmer par cette comédie sentimentale très particulière.&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;p&gt;Au sommaire:&lt;/p&gt;
 
@@ -22,12 +24,15 @@
   &lt;li&gt;les films&lt;/li&gt;
   &lt;li&gt;les goodies&lt;/li&gt;
 &lt;/ul&gt;
+
 </description>
         <pubDate>Fri, 03 Oct 1997 00:00:00 +0200</pubDate>
         <link>/dossier-kimagure-orange-road</link>
         <guid isPermaLink="true">/dossier-kimagure-orange-road</guid>
         
         <category>LostEden1</category>
+        
+        <category>Dossier</category>
         
         
       </item>
