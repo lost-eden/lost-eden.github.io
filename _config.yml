@@ -19,11 +19,11 @@ twitter:
 # Navigation
 navigation:
   - text: Fanzines
-    url: /fanzines/
+    url: /fanzines.html
   - text: Lexique
-    url: /lexique/
+    url: /lexique.html
   - text: A propos
-    url: /about/
+    url: /about.html
 
 # Required Plugins
 plugins_dir:
