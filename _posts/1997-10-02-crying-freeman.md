@@ -2,7 +2,7 @@
 layout: post
 title: 'Crying Freeman, le film live'
 tags: [ LostEden1 ]
-featured_image_thumbnail: assets/images/posts/1997/cryingfreeman.jpg
+featured_image_thumbnail: assets/images/posts/1997/cryingfreeman_thumbnail.jpg
 ---
 
 Attardons-nous un moment sur ce qui est à ce jour l’une des meilleures adaptations d’un manga au cinéma.
