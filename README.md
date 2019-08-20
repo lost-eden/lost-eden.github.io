@@ -4,4 +4,4 @@
 
 ### Theme Jekyll
 
-Copyright (c) HORACE. HORACE THEME BY JEKYLLTHEMES.PRO. 
+Copyright (c) HORACE. HORACE theme by https://jekyllthemes.io
