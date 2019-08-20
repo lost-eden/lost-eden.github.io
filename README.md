@@ -1,6 +1,10 @@
 # Site Lost Eden
 
-## License
+## Licenses
+
+### Site content
+
+Copyright 2019 Erwan Carriou
 
 ### Theme Jekyll
 
