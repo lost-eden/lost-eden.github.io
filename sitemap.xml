@@ -209,6 +209,10 @@
 <lastmod>1998-06-29T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>/courrier-des-lecteurs</loc>
+<lastmod>1998-09-01T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>/contact</loc>
 </url>
 <url>
@@ -290,6 +294,9 @@
 <loc>/tag/losteden2/page6/</loc>
 </url>
 <url>
+<loc>/tag/losteden3/</loc>
+</url>
+<url>
 <loc>/page2/</loc>
 </url>
 <url>
@@ -315,5 +322,8 @@
 </url>
 <url>
 <loc>/page10/</loc>
+</url>
+<url>
+<loc>/page11/</loc>
 </url>
 </urlset>
