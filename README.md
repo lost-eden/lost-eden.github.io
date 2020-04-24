@@ -1,4 +1,4 @@
-# Site Lost Eden
+Lost Eden website
 
 ## Licenses
 
@@ -6,6 +6,6 @@
 
 Copyright 2019 Erwan Carriou
 
-### Theme Jekyll
+### Jekyll theme
 
 Copyright (c) HORACE. HORACE theme by https://jekyllthemes.io
